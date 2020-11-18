@@ -1,5 +1,7 @@
 # sass-watch-ftp
-Write in SASS, gulp watch on save, gulp upload CSS to FTP server.
+Write in SASS, auto compile on file save (ctrl+s) with gulp watch, then gulp upload CSS to FTP server (Shift+Space).
+
+Note: If you want use a keybind shortcut (as above Shift+Space) instead of typing gulp upload, then follow the notes in the gulpfile.js
 
 After installing this package, install dependencies:
 
@@ -25,7 +27,5 @@ Terminal 1
 Terminal 2
 
 	gulp upload
-
-There is also a handy tip in the gulpfile.js to bind shortcut keys to gulp upload instead of typing the command.
 
 If anyone wants to turn this into a GUI go ahead, but gimme link. You could probably pull it off with Electron.
