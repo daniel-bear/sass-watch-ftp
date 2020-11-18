@@ -7,4 +7,6 @@ run npm install --save-dev gulp gulp-debug gulp-ftp gulp-postcss gulp-sass node-
 
 Open 2 split terminals, and on one run: gulp watch, and on the other run: gulp upload
 
+There is also a guide in the gulpfile.js to bind a shortcut key to gulp upload instead of typing the command.
+
 If anyone wants to turn this into a GUI go ahead, but gimme link.
