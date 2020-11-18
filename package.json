@@ -1,0 +1,30 @@
+{
+  "name": "aero-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel-bear/gulp-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniel-bear/gulp-express/issues"
+  },
+  "homepage": "https://github.com/daniel-bear/gulp-express#readme",
+  "dependencies": {
+    "autoprefixer": "^10.0.2",
+    "gulp": "^4.0.2",
+    "gulp-debug": "^4.0.0",
+    "gulp-ftp": "^1.1.0",
+    "gulp-postcss": "^9.0.0",
+    "gulp-sass": "^4.1.0",
+    "node-notifier": "^8.0.0",
+    "postcss": "^8.1.7",
+    "run-sequence": "^2.2.1"
+  }
+}
