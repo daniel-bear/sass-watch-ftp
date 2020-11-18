@@ -1,5 +1,6 @@
 # sass-watch-ftp
-Write in SASS, auto compile on file save (ctrl+s) with gulp watch, then gulp upload CSS to FTP server (Shift+Space).
+
+Write your SCSS/SASS, save file (ctrl+s) auto compile with gulp watch, and gulp upload (shift+space) via FTP to your server. In 3 seconds.
 
 Note: If you want use a keybind shortcut (as above Shift+Space) instead of typing gulp upload, then follow the notes in the gulpfile.js
 
