@@ -28,4 +28,4 @@ Terminal 2
 
 There is also a handy tip in the gulpfile.js to bind shortcut keys to gulp upload instead of typing the command.
 
-If anyone wants to turn this into a GUI go ahead, but gimme link.
+If anyone wants to turn this into a GUI go ahead, but gimme link. You could probably pull it off with Electron.
