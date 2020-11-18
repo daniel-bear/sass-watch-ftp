@@ -23,9 +23,9 @@ Replace the entire function with:
 ### Configure paths:
 Configure your paths as outlined in the gulp.js file.
 
-This best works with 2 split terminals open. In VSCode from the top bar menu: Terminal > New Terminal:Split Terminals
-
 ### Optional, but optimal workflow:
+This works best with 2 split terminals open. In VSCode from the top bar menu: Terminal > New Terminal:Split Terminals
+
 Terminal 1
 
 	gulp watch
