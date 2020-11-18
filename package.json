@@ -1,5 +1,5 @@
 {
-  "name": "aero-express",
+  "name": "sass-watch-ftp",
   "version": "1.0.0",
   "description": "",
   "main": "gulpfile.js",
@@ -8,15 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/daniel-bear/gulp-express.git"
+    "url": "git+https://github.com/daniel-bear/sass-watch-ftp.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/daniel-bear/gulp-express/issues"
+    "url": "https://github.com/daniel-bear/sass-watch-ftp/issues"
   },
-  "homepage": "https://github.com/daniel-bear/gulp-express#readme",
-  "dependencies": {
+  "homepage": "https://github.com/daniel-bear/sass-watch-ftp#readme",
+  "dependencies": {},
+  "devDependencies": {
     "autoprefixer": "^10.0.2",
     "gulp": "^4.0.2",
     "gulp-debug": "^4.0.0",
